@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duanzhuohui/HME-test/bench/memlat/memlat.c
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+assert.h
+-
+pthread.h
+-
+

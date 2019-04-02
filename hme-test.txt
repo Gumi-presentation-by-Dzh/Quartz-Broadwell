@@ -1,0 +1,3 @@
+sh run.sh ~/CLionProjects/hme-test2/cmake-build-debug/hme-test2
+sh run.sh ~/cuda-workspace/hme-test4/build/hme-test4
+sh run.sh ~/cuda-workspace/hme-test5/build/hme-test5

@@ -1,0 +1,78 @@
+liupai@gpu-cluster-3:~/workspace/HME-q$ sh run.sh /home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+/home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+Kernel module unloaded successfully
+Kernel module loaded successfully
+Kernel module already loaded, please reload it.
+Turbo Boost disabled for all CPUs
+/home/liupai/workspace/HME-q/scripts/../build/src/lib/libnvmemul.so
+/home/liupai/workspace/HME-q/scripts/../nvmemul.ini
+mem_size_in_bytes: 1048576, numbers: 262144
+memcpy from dram_ptr1 to dram_ptr2: 494.000000 us or 0.000000 ms.
+memcpy from dram_ptr1 to nvram_ptr: 15924.000000 us of 15.000000 ms.
+nvm_micro_time/dram_micro_time: 32.234818
+liupai@gpu-cluster-3:~/workspace/HME-q$ sh run.sh /home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+/home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+Kernel module unloaded successfully
+Kernel module loaded successfully
+Kernel module already loaded, please reload it.
+Turbo Boost disabled for all CPUs
+/home/liupai/workspace/HME-q/scripts/../build/src/lib/libnvmemul.so
+/home/liupai/workspace/HME-q/scripts/../nvmemul.ini
+mem_size_in_bytes: 2147483648, numbers: 536870912
+^C
+liupai@gpu-cluster-3:~/workspace/HME-q$ sh run.sh /home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+/home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+Kernel module unloaded successfully
+Kernel module loaded successfully
+Kernel module already loaded, please reload it.
+Turbo Boost disabled for all CPUs
+/home/liupai/workspace/HME-q/scripts/../build/src/lib/libnvmemul.so
+/home/liupai/workspace/HME-q/scripts/../nvmemul.ini
+mem_size_in_bytes: 2147483648, numbers: 536870912
+random numbers initialization finished!!
+memcpy from dram_ptr1 to dram_ptr2: 718786.000000 us or 719.000000 ms.
+memcpy from dram_ptr1 to nvram_ptr: 3614360.000000 us of 3615.000000 ms.
+nvm_micro_time/dram_micro_time: 5.028423
+liupai@gpu-cluster-3:~/workspace/HME-q$ sh run.sh /home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+/home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+[sudo] password for liupai: 
+Kernel module unloaded successfully
+Kernel module loaded successfully
+Kernel module already loaded, please reload it.
+Turbo Boost disabled for all CPUs
+/home/liupai/workspace/HME-q/scripts/../build/src/lib/libnvmemul.so
+/home/liupai/workspace/HME-q/scripts/../nvmemul.ini
+mem_size_in_bytes: 2147483648, numbers: 536870912
+random numbers initialization finished!!
+memcpy from dram_ptr1 to dram_ptr2: 716289.000000 us or 717.000000 ms.
+memcpy from dram_ptr1 to nvram_ptr: 1330577.000000 us of 1330.000000 ms.
+nvm_micro_time/dram_micro_time: 1.857598
+liupai@gpu-cluster-3:~/workspace/HME-q$ sh run.sh /home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+/home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+Kernel module unloaded successfully
+Kernel module loaded successfully
+Kernel module already loaded, please reload it.
+Turbo Boost disabled for all CPUs
+/home/liupai/workspace/HME-q/scripts/../build/src/lib/libnvmemul.so
+/home/liupai/workspace/HME-q/scripts/../nvmemul.ini
+mem_size_in_bytes: 2147483648, numbers: 536870912
+random numbers initialization finished!!
+memcpy from dram_ptr1 to dram_ptr2: 719901.000000 us or 720.000000 ms.
+memcpy from dram_ptr1 to nvram_ptr: 886240.000000 us of 887.000000 ms.
+nvm_micro_time/dram_micro_time: 1.231058
+liupai@gpu-cluster-3:~/workspace/HME-q$ sh run.sh /home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+/home/liupai/CLionProjects/HME-test2/cmake-build-debug/HME_test2
+[sudo] password for liupai: 
+Kernel module unloaded successfully
+Kernel module loaded successfully
+Kernel module already loaded, please reload it.
+Turbo Boost disabled for all CPUs
+/home/liupai/workspace/HME-q/scripts/../build/src/lib/libnvmemul.so
+/home/liupai/workspace/HME-q/scripts/../nvmemul.ini
+mem_size_in_bytes: 2147483648, numbers: 536870912
+random numbers initialization finished!!
+memcpy from dram_ptr1 to dram_ptr2: 12066325.000000 us or 12066.000000 ms.
+memcpy from dram_ptr1 to nvram_ptr: 160284464.000000 us of 160284.000000 ms.
+nvm_micro_time/dram_micro_time: 13.283619
+liupai@gpu-cluster-3:~/workspace/HME-q$ 
+

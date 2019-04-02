@@ -1,0 +1,1 @@
+cmd_/home/duanzhuohui/HME-test/build/src/dev/nvmemul.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/duanzhuohui/HME-test/build/src/dev/nvmemul.ko /home/duanzhuohui/HME-test/build/src/dev/nvmemul.o /home/duanzhuohui/HME-test/build/src/dev/nvmemul.mod.o

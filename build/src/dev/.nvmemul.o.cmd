@@ -1,0 +1,1 @@
+cmd_/home/duanzhuohui/HME-test/build/src/dev/nvmemul.o := ld -m elf_x86_64   -r -o /home/duanzhuohui/HME-test/build/src/dev/nvmemul.o /home/duanzhuohui/HME-test/build/src/dev/pmc.o ; scripts/mod/modpost /home/duanzhuohui/HME-test/build/src/dev/nvmemul.o
